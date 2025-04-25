@@ -16,7 +16,7 @@
 (Type or paste the full honesty statement here)
 
 **With respect to the honesty statement, if you have any doubts whatsoever about whether you have completed the assignment appropriately, please describe briefly here:**  
-(If you have any concerns or uncertainties about your submission, please explain here.)
+(If you have any, please explain here.)
 
 ---
 
